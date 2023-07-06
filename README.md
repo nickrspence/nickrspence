@@ -1,9 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Nick! <br/><a href="linkedin.com/in/nick-spence-abc">Data Analyst</a>
 
-<!--
-**nickrspence/nickrspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: linkedin.com/in/nick-spence-abc
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
