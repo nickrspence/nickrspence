@@ -7,4 +7,4 @@ My goal the next 1-2 years is to learn as much as I can within the field and dev
 <h3>👨‍💻 Data Analytics Project:</h3>
 I really enjoyed developing this eCommerce project, from digging around the data with SQL and presenting clear visuals with Tableau.
 
-- <b>eCommerce Company Performance Analysis</b> (https://github.com/nickrspence/eCommerce-company-performance-analysis)
+- <b>[eCommerce Company Performance Analysis]</b> (https://github.com/nickrspence/eCommerce-company-performance-analysis)
