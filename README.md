@@ -12,5 +12,5 @@ I really enjoyed developing these first two  projects.
 - The first project was developed from a real dataset from Kaggle. It required quite a bit more ETL and Stack Overflow research. I particularly enjoyed employing a variety of SQL window functions to display interesting data insights, as well as creating two dashboards in Power BI.
 - The second project was completed in tandem with an online SQL course. The dataset was developed with the intent of training new analysts, which allowed for some exciting and complex queries. I also enjoyed crafting unique visuals in Tableau.
 
--  <b>[Olist Store Analyses](https://github.com/nickrspence/Olist-eCommerce-Store)</b> 
--  <b>[Maven Store Analyses](https://github.com/nickrspence/eCommerce-company-performance-analysis)</b> 
+-  <b>[Olist eCommerce Analyses / SQL & Power BI](https://github.com/nickrspence/Olist-eCommerce-Store)</b> 
+-  <b>[Maven eCommerce Analyses / SQL & Tableau](https://github.com/nickrspence/eCommerce-company-performance-analysis)</b> 
