@@ -9,8 +9,8 @@ My goal the next 1-2 years is to learn as much as I can within the field and dev
 <h3>👨‍💻 Project:</h3>
 I really enjoyed developing these first two  projects.
 
-- The first project was developed from a real dataset from Kaggle. It required quite a bit more ETL and Stack Overflow research. I particularly enjoyed employing a variety of SQL window functions to display interesting data insights.
-- The second project was completed in tanden with an online SQL course. The dataset was developed with the intent of training new analysts, which allowed for some exciting and complex queries.
+- The first project was developed from a real dataset from Kaggle. It required quite a bit more ETL and Stack Overflow research. I particularly enjoyed employing a variety of SQL window functions to display interesting data insights, as well as creating two dashboards in Power BI.
+- The second project was completed in tandem with an online SQL course. The dataset was developed with the intent of training new analysts, which allowed for some exciting and complex queries. I also enjoyed crafting unique visuals in Tableau.
 
 -  <b>[Olist Store Analyses](https://github.com/nickrspence/Olist-eCommerce-Store)</b> 
 -  <b>[Maven Store Analyses](https://github.com/nickrspence/eCommerce-company-performance-analysis)</b> 
