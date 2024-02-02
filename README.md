@@ -12,7 +12,7 @@ I really enjoyed developing these first two  projects.
 -  <b>[Olist eCommerce Analyses / SQL & Power BI](https://github.com/nickrspence/Olist-eCommerce-Store)</b> 
 -  <b>[Maven eCommerce Analyses / SQL & Tableau](https://github.com/nickrspence/eCommerce-company-performance-analysis)</b> 
 
-1) Olist Brazilian Store eCommerce Analyses | Tools: MySQL, Power BI, Excel
+<h4>1) Olist Brazilian Store eCommerce Analyses | Tools: MySQL, Power BI, Excel<h4>
    
 - This project was developed from a real dataset from Kaggle. It required quite a bit more ETL and Stack Overflow research. I particularly enjoyed employing a variety of SQL window functions to display interesting data insights, as well as creating two dashboards in Power BI.
 - Dataset (Kaggle): 100k orders from 2017-18, including price, freight performance, customer location, product attributes, and vendor sourcing
@@ -21,7 +21,7 @@ I really enjoyed developing these first two  projects.
 -	EDA: actual vs. expected delivery times, product sales over time series and location, product seasonality (bucketing case/when), top product categories (rank), vendor lead conv rates (calculation)
 -	Visualization: Power BI - Power Query ETL, key mapping, dynamic dashboard, KPIs, slicers, DAX
 
-2) Maven Factory eCommerce Analyses | Tools: MySQL, Tableau
+<h4>2) Maven Factory eCommerce Analyses | Tools: MySQL, Tableau<h4>
 
 - The second project was completed in tandem with an online SQL course. The dataset was developed with the intent of training new analysts, which allowed for some exciting and complex queries. I also enjoyed crafting unique visuals in Tableau.
 - Dataset (Maven Analytics course): 32k orders from 2012-15, including revenue, cost, website sessions, website URL tracking, advertising 
